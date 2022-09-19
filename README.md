@@ -1,0 +1,2 @@
+# borrador
+ejercicio curso platzi
