@@ -1,0 +1,26 @@
+[33mcommit 0f0d3d91d58c93729d9eb4f6a6a6010f34d69718[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: juan cardenas <juancar@gmail.com>
+Date:   Sat Sep 17 16:47:07 2022 -0500
+
+    agregamos 4 commit y agregamos un nuevo texto
+    
+    juanes recomienda a camilo tomar algo.
+
+[33mcommit 5af7f283a4655d0fbf95d6c74755d50237464891[m
+Author: juan cardenas <juancar@gmail.com>
+Date:   Sat Sep 17 16:38:34 2022 -0500
+
+    agregamos nuevas lineas de texto
+    dified:   historia.txt
+
+[33mcommit ae68cec4dca07134868b9c41e482082240236124[m
+Author: juan cardenas <juancar@gmail.com>
+Date:   Sat Sep 17 16:32:59 2022 -0500
+
+    segundo comit, cambio de nombre
+
+[33mcommit 88db764f113bc55f315b236c8a0900c53b1428d5[m
+Author: juan cardenas <juancar@gmail.com>
+Date:   Sat Sep 17 10:53:34 2022 -0500
+
+    primer repositorio
